@@ -3,7 +3,7 @@ const products = [
    { name: "Kit Kat", price: 9.5, quantity: 0, imgSrc: "images/kitKat.png" },
    { name: "Bar One", price: 8.5, quantity: 0, imgSrc: "images/barOne.png" },
    { name: "Fanta", price: 7.5, quantity: 0, imgSrc: "images/fanta.png" },
-   { name: "Lunch Bar", price: 10, quantity: 0, imgSrc: "images/LunchBar.png" }
+   { name: "Lunch Bar", price: 10, quantity: 0, imgSrc: "images/lunchBar.png" }
 ];
 
 function renderMenu() {
